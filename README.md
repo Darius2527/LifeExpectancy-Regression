@@ -1,6 +1,6 @@
 # LifeExpectancy-Regression
 
-This regression model involves prediting the average life expectancy of a country's population using the dataset given. Various Regression models have been used and the accuracy is calculated using K fold cross validation. Piplined have been used to implement StandardScaling along with model fitting.
+This regression model involves predicting the average life expectancy of a country's population using the dataset given. Various Regression models have been used and the accuracy is calculated using K fold cross validation. Piplined have been used to implement StandardScaling along with model fitting.
 
 
 
